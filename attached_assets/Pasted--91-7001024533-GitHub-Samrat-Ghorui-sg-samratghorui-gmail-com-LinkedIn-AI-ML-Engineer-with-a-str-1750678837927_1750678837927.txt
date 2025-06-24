@@ -1,0 +1,62 @@
++91-7001024533 GitHub
+ Samrat Ghorui
+sg.samratghorui@gmail.com LinkedIn
+AI/ML Engineer with a strong interest in building intelligent systems and data-driven solutions. Seeking to join
+a dynamic organization that encourages innovation, meaningful contributions to cutting-edge technologies.
+EDUCATION
+Heritage Institute of Technology Kolkata, India
+Bachelor of Technology | Information Technology | CGPA: 7.5 Aug 2022 – Jun 2025
+Jnan Chandra Ghosh Polytechnic Kolkata, India
+Diploma | Electrical Engineering | CGPA: 8.35 Aug 2018 - Aug 2022
+EXPERIENCE
+Python Developer | MintWays Technology MAY 2025 – PRESENT
+● Developed high-performance RESTful APIs using FastAPI framework with Uvicorn ASGI server to deliver fast and
+scalable backend services.
+● Designed and implemented agentic AI solutions leveraging Large Language Models (LLMs) for intelligent, contextaware automation and decision-making.
+● Worked with SQL databases to create optimized queries, manage data models, and ensure efficient data handling for
+AI and application needs.
+● Utilized version control (Git) and CI/CD workflows to maintain code quality and streamline deployments.
+Engaged in full software development lifecycle including testing, debugging, and performance tuning of AI-driven
+applications.
+AI/ML Intern | Shell DEC 2024 – JAN 2025
+● Developed a Medical Assistant Chatbot using Natural Language Processing (NLP).
+● Deployed the chatbot on a user-friendly platform, enabling seamless access for patients and healthcare professionals.
+● Implemented text preprocessing and intent classification techniques to enhance the chatbot’s understanding of medical
+symptoms and drug interactions.
+● Contributed to Shell’s digital transformation efforts by demonstrating the potential of AI in healthcare and customer
+support applications.
+Data Science & Analytics Intern | BCG X JUNE 2024 - AUGUST 2024
+● Designed and implemented SQL workflows to streamline data extraction and analysis processes.
+● Developed automated reporting tools to enable stakeholders to derive actionable insights efficiently.
+● Collaborated with cross-functional teams to analyze complex datasets and generate data-driven recommendations.
+● Presented insights to executive stakeholders, simplifying technical concepts into business-oriented narratives.
+● Pioneered a new alpha extraction method, resulting in a 135% increase in investment return.
+PROJECTS
+Multi-Agent Financial Advisor | May 2025-June2025
+● Developed a fully functional end-to-end multi-agent financial advisor system capable of offering real-time, domainspecific financial insights using Retrieval-Augmented Generation (RAG).
+● Integrated FastAPI backend with HTML/JS frontend. Used GROQ and Gemini API as LLMs, and PostgreSQL to store
+user queries and model responses
+● Applied LangChain for dynamic retrieval from financial data.
+Lung Cancer Prediction Model | May 2024 - July 2024
+● Designed a CNN achieving 78% accuracy in medical imaging and 98% accuracy with Random Forest for text data.
+● Pre-processed diverse datasets for training and validation.
+● Incorporated a medical assistant chatbot via Gemini API for real-time insights and used Heroku for deployment.
+GitHub Webhook Event Tracker | May 2025 – June 2025
+● Built a Flask-based application to capture GitHub push, pull request, and merge events using GitHub Webhooks.
+● Developed a live frontend using HTML, CSS, and JavaScript that polls the backend every 15 seconds to display the
+latest repository events.
+● Used Ngrok to expose the local Flask server for GitHub webhook testing and integrated the setup with MongoDB.
+TECHNICAL SKILLS
+Programming Languages: Python, C, Java, HTML, JavaScript, SQL, MongoDB.
+CS Fundamentals: Data Structures & Algorithms, Object-Oriented Programming, Complexity Analysis.
+Data Science & Machine Learning Expertise: EDA, Feature Engineering, Feature selection & Extraction, Machine
+Learning Algorithm, Artificial Intelligence, Deep Learning, Generative AI, LLM, BERT, OpenAi, NLP, CNN.
+Frameworks: Pandas, NumPy, SciPy, Scikit-Learn, Matplotlib, Seaborn, Streamlit.
+Web development: HTML, CSS, JavaScript, Fast API, Docker, Jenkins, Webhook, AWS.
+Tools & Platforms: Excel, MySQL, Visual Studio Code, Jupyter Notebook, Google Colab, Git.
+Soft skill: Problem-Solving, Technical Communication, Report Building, Stakeholder Management, Client
+Communication, Collaboration, People Management, Business Understanding.
+CERTIFICATIONS
+Programming in Python (by Meta) | COURSERA
+Foundation of Data Science (by Google) | COURSERA
+Convolutional Neural Networks (by DeepLearning.AI) | COURSERA
